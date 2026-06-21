@@ -1,6 +1,6 @@
 # Apathyyn
 
-C++ Developer focused on game technology, reverse engineering, and low-level software.
+C++ Developer focused on game hacking, reverse engineering, and low-level software.
 
 ## About
 
@@ -31,9 +31,10 @@ Most of my repositories involve:
 * GitHub: https://github.com/apathyyn
 * Discord: apathyyn
 
-## Stats
+<!--## Stats
 ### !! NOT ACCURATE MOST OF MY PROJECTS ARE PRIVATE !!
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=apathyyn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=apathyyn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
