@@ -1,16 +1,39 @@
-## Hi there 👋
+# Apathyyn
 
-<!--
-**apathyyn/apathyyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C++ Developer focused on game technology, reverse engineering, and low-level software.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building performant software, researching how systems work internally, and developing tools that operate close to the hardware.
+
+## Technologies
+
+* C++
+* C
+* Lua
+* ImGui
+
+## Interests
+
+* Game Hacking
+* Reverse Engineering
+
+## Projects
+
+Most of my repositories involve:
+
+* C++ applications
+* Game-related projects
+* Game Externals
+
+## Contact
+
+* GitHub: https://github.com/apathyyn
+* Discord: apathyyn
+
+## Stats
+### !! NOT ACCURATE MOST OF MY PROJECTS ARE PRIVATE !!
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=apathyyn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=apathyyn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
